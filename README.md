@@ -1,5 +1,5 @@
 # flat2healpix
-Short python script to convert flat fits mask file to healpix mask map
+Short python script to convert flat fits mask file to healpix mask map. Setup for KiDS-N mask
 
 Warning: some healpy routines are not compatible with recent numpy version (does not accept indices as floats). Two changes had to be made:
 
